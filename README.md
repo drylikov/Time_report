@@ -24,8 +24,6 @@
 
 
 
-
-
 # TimeReport.
 
 ## Usage
