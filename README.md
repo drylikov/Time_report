@@ -1,4 +1,3 @@
-
 # TimeReport.
 
 ## Usage
